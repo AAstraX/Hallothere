@@ -45,7 +45,7 @@ SimpleSpy V3 is designed to be the "default" remote spy and built with minimal b
 ## Beta\future Version Simply spyScript
 To use SimpleSpy V3, just run the following code (or copy the code from SimplySpy.lua) into a supported executor.
 ```lua
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/AAstraX/Hallothere/Scripts/SimpleSpyBy78n"))()
+loadstring(game:HttpGetAsync("loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/78n/SimpleSpy/main/SimpleSpyBeta.lua"))()"))()
 ```
 
 ## Credits
