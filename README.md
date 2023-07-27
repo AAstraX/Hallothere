@@ -1,3 +1,9 @@
+## the updated one
+
+```
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/AAstraX/Hallothere/Scripts/SimpleSpyBy78n"))()
+```
+
 # Hallothere
 Credits to 78n the owner of Simplespy 
 not mine use it if you want 
